@@ -68,3 +68,19 @@ for (let i = 1d; i < 10; i++) {
 function name(params) {
     
 }
+
+// string
+
+let real_namee = "kiran"
+let friend = "robin"
+
+console.log("his name is "+ real_namee +  "and his friend name is" + friend )
+
+// for upper and lower case
+
+let a = "momonoske"
+console.log(a.toUpperCase())
+console.log(a.toLowerCase())
+
+
+
